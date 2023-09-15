@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Clock/static/css/main.ad005b14.css",
-    "main.js": "/Clock/static/js/main.1ed7c7c3.js",
-    "static/js/787.43d6c272.chunk.js": "/Clock/static/js/787.43d6c272.chunk.js",
-    "index.html": "/Clock/index.html",
-    "main.ad005b14.css.map": "/Clock/static/css/main.ad005b14.css.map",
-    "main.1ed7c7c3.js.map": "/Clock/static/js/main.1ed7c7c3.js.map",
-    "787.43d6c272.chunk.js.map": "/Clock/static/js/787.43d6c272.chunk.js.map"
+    "main.css": "/DigitalClock/static/css/main.ad005b14.css",
+    "main.js": "/DigitalClock/static/js/main.cf536723.js",
+    "static/js/787.43d6c272.chunk.js": "/DigitalClock/static/js/787.43d6c272.chunk.js",
+    "index.html": "/DigitalClock/index.html",
+    "main.ad005b14.css.map": "/DigitalClock/static/css/main.ad005b14.css.map",
+    "main.cf536723.js.map": "/DigitalClock/static/js/main.cf536723.js.map",
+    "787.43d6c272.chunk.js.map": "/DigitalClock/static/js/787.43d6c272.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad005b14.css",
-    "static/js/main.1ed7c7c3.js"
+    "static/js/main.cf536723.js"
   ]
 }
